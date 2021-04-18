@@ -1,7 +1,4 @@
 # starter
-
- <!DOCTYPE html>
-  <html>
   <head>
   	<title>My Favorite Book</title>
   </head>
@@ -15,5 +12,4 @@
     <h2>SIR ARTHUR CONAN DOYLE</h2>
        <hr size="3" noshade>
         <center>
-  </body>
-  </html> 
+ 
