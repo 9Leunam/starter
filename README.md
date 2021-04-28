@@ -1,7 +1,4 @@
 # starter
-  <head>
-  	<title>My Favorite Book</title>
-  </head>
   <body>
   	  <center>
   	  <hr size="3" noshade>
